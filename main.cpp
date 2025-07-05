@@ -43,7 +43,7 @@ int main() {
   cout << "Enter your choice (1-13): ";
   cin >> choice;
 
-  cout << "==============================\n";
+  cout << "=============================\n";
 
   switch (choice) {
   case 1: {
