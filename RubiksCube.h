@@ -1,6 +1,3 @@
-//
-// Created by Sahil Agarwal.
-//
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 #define RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
@@ -175,4 +172,4 @@ public:
     uint8_t getCornerOrientation(uint8_t ind) const;
 };
 
-#endif // RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
+#endif 
