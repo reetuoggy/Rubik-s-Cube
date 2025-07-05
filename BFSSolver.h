@@ -61,4 +61,4 @@ public:
     }
 };
 
-#endif // BFSSOLVER_H
+#endif
